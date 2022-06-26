@@ -1,0 +1,40 @@
+body{
+    
+    background-color: white;
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-size: 100%;
+    background-color: #080808;
+    color: #ffffff;
+}
+
+nav {
+    background-color: #050505;
+    overflow: hidden;
+}
+
+nav a{
+    text-decoration: none;
+    float: right;
+    color: #EBCBF4;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+
+nav a:hover {
+    background-color: #ede1ec;
+    color: #581908;
+}
+
+#ab1 {
+    
+    background-color: #080808;
+
+}
+
+#ab2 {
+    background-image: url(./vain.jpg);
+    color: white;
+    opacity: 0.5;
+}
